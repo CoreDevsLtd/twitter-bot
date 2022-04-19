@@ -1,0 +1,18 @@
+{
+    "name": "bot",
+    "version": "1.0.0",
+    "description": "Twitter Bot - NodeJS",
+    "author": "Core Devs Ltd. <support@coredevs.ltd>",
+    "dependencies": {
+        "twit": "*"
+    },
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CoreDevsLtd/twitter-bot"
+    },
+    "analyze": true,
+    "license": "Apache-2.0"
+}
